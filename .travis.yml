@@ -62,4 +62,4 @@ notifications:
   email:
     on_success: never
     recipients:
-      - federico.orazi@studio.unibo.it
+      - lorenzo.simoncini2@studio.unibo.it
